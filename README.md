@@ -1,6 +1,10 @@
 # spec.indieweb.org
 
-This repository contains static HTML and CSS that gives an overview of all IndieWeb specs. You can see it live at [spec.indieweb.org](http://spec.indieweb.org).
+This repository contains static HTML and CSS that gives an overview of well implemented IndieWeb specs. 
+
+You can see it live at [spec.indieweb.org](http://spec.indieweb.org).
+
+See https://indieweb.org/specifications for a more comprehensive list including proposals in progress.
 
 ## Authors
 
